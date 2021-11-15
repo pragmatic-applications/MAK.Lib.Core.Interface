@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAK.Lib.Core.Interface", "MAK.Lib.Core.Interface\MAK.Lib.Core.Interface.csproj", "{9632B253-2044-4D95-A02E-9FCFB000D824}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{55D5D3A2-7B63-4E01-A437-829148023489}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		docs\Record.cs = docs\Record.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9632B253-2044-4D95-A02E-9FCFB000D824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9632B253-2044-4D95-A02E-9FCFB000D824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9632B253-2044-4D95-A02E-9FCFB000D824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9632B253-2044-4D95-A02E-9FCFB000D824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {456C7B97-94A0-4993-ABFA-5F7942FAF70A}
+	EndGlobalSection
+EndGlobal

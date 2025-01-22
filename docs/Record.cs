@@ -3,9 +3,9 @@
 //=================================================================
 // Programmer: Maurice Antonio Kelly @MAKMaurice
 // Description: A To Do App with undo, redo and database CRUD features.
-// ASP.NET Core 6.0
-// Date: 2021-11-15
-// Stop: 19:00
-// NuGet: <Version>0.0.0.3</Version>
+
+// Date: 2025-01-22
+// Stop: 12:00
+// Git Message: Update from .NET 6 to 9
 //=================================================================
 
